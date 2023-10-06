@@ -9,5 +9,5 @@ package Interface;
  * @author sergi
  */
 public class metodo {
-    
+   String hola; 
 }
