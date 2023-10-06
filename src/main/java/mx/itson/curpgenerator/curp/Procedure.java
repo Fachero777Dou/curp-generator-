@@ -6,10 +6,13 @@ package mx.itson.curpgenerator.curp;
  * @author Sergio Alejando, Yolanda Martinez, Luis Daniel, Jose Alvarez, Pedro 
  */
 public class Procedure {
+/*
     
     public String people(String name, String firstName, String lastName, String date, String sex){
     
     }
+*/
+    
     
     
     
