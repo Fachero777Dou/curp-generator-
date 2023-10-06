@@ -11,5 +11,5 @@
         <maven.compiler.target>19</maven.compiler.target>
         <exec.mainClass>com.mycompany.olaaaaaaaaaaaaaaaaaaaaaaaapndejo.OlaaaaaaaaaaaaaaaaaaaaaaaaPndejo</exec.mainClass>
     </properties>
-    <name>CurpGenerator</name>
+    <name>Cucumber</name>
 </project>
