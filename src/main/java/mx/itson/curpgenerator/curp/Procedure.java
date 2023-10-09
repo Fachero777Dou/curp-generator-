@@ -28,7 +28,22 @@ public class Procedure {
       
       //ejemplo es solo un ejemplo
       /*
-      después de trabajar en el hacen lo siguiente 
+      después de trabajar en el hacen lo siguiente
+      
+      */
+      
+      /*
+      1. Descargar el zip
+      2. extraer
+      3. clonar 
+      4. hacer pull
+      5.despues de agregar algo se le da en add
+      6. commit
+      7. push to usptream como se llame esa cosa
+      8. listo.....
+      
+      en el pull pondran el url https://github.com/Fachero777Dou/curp-generator-.git
+      en contraseña pondran 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
       */
       
       if(name.equals(name)){
